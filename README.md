@@ -17,13 +17,20 @@ Author: Seongmok (Eric), Yoo
 1. Open coding_assignment.py
 2. Enter desired string as input_string in line 54
 3. Save source code
-4.-visual studio code-
+4. -visual studio code-
+ 
   Open coding_assignment.py via visual studio code
+  
   Install python extension if not already installed
+  
   Click on Reun, then Start Debugging
-5.-terminal
+  
+5. -terminal
+
   Nevigate to the directory where coding_assignment.py is located
+  
   Install python if not already installed
+  
   Enter python coding_assignment.py
   
 # Unit testing
