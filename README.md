@@ -15,7 +15,7 @@ by their length.
 
 # How to run
  1. Open coding_assignment.py
- 2. Enter desired string as input_string in line 54
+ 2. Enter desired string as input_string in line 63
  3. Save source code
  4. via visual studio code
  
@@ -23,7 +23,7 @@ by their length.
   
      * Install python extension if not already installed
   
-     * Click on Reun, then Start Debugging
+     * Click on Run, then Start Debugging
   
 5. via terminal
 
@@ -35,8 +35,16 @@ by their length.
   
 # Unit testing
 1. Open coding_assignment.py
-2. Nevigate to line 60
-3. Test cases for each unit is already written as a blcok of comment
-4. Uncomment desired test
-5. Comment line 45,46,54, and 55
-6. Run by following the same procedure as above 
+2. Comment line 55, 56, 63, and 64
+3. locate test_coding_assignment.py in the same directory as coding_assignment.py
+4. via visual studio code
+ 
+     * Open test_coding_assignment.py via visual studio code
+  
+     * Click on Run, then Start Debugging
+  
+5. via terminal
+
+    * Nevigate to the directory where test_coding_assignment.py is located
+  
+    * Enter python test_coding_assignment.py
