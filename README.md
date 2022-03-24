@@ -1,7 +1,5 @@
 # coding_assignment
 
-+ Submission for S&P Global Development Assignment
-
 + Problme: Find all palindromes in a string, and print them, 
 along with their starting position and length, sorted 
 by their length.
