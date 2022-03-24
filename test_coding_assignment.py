@@ -1,5 +1,5 @@
 """
-Submission for S&P Global Development Assignment
+
 
 Unit Testing for coding_assignment.py
 
