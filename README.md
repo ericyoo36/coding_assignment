@@ -6,7 +6,7 @@ by their length.
 
 + Time complexity: O(n), where n = length of input string
 
-+ Space complexity: O(n), where n = number of palindromes
++ Space complexity: O(n), where n = number of palindromes found in input string
 
 + Date: Mar, 2022
 + Author: Seongmok (Eric), Yoo 
